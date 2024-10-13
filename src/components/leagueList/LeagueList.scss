@@ -1,0 +1,19 @@
+.league-list {
+    display: flex;
+    gap: 5px;
+    list-style: none;
+
+    .league-item{
+        background-color: #2e2d2d;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 1px 10px;
+        border-radius: 5px 5px 0px 0px;
+        cursor: pointer;
+
+        &.selected {
+            background-color: #424242;
+          }
+    }
+}

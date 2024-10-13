@@ -19,10 +19,29 @@ export const team = [
                     {
                         id: 1,
                         name: 'LEC',
+                        channels: [
+                            {
+                                id: 1,
+                                name: 'LEC',
+                                url: 'https://www.twitch.tv/lec',
+                            },
+                            {
+                                id: 2,
+                                name: 'LEC 2',
+                                url: 'https://www.twitch.tv/lec2',
+                            },
+                        ],
                     },
                     {
                         id: 2,
                         name: 'LFL',
+                        channels: [
+                            {
+                                id: 1,
+                                name: 'LFL',
+                                url: 'https://www.twitch.tv/lolesportslfl',
+                            },
+                        ],
                     },
                 ],
             },
@@ -34,6 +53,13 @@ export const team = [
                     {
                         id: 1,
                         name: 'VCT',
+                        channels: [
+                            {
+                                id: 1,
+                                name: 'VCT EMEA',
+                                url: 'https://www.twitch.tv/valorantchampions',
+                            },
+                        ],
                     },
                 ],
             },
@@ -45,6 +71,13 @@ export const team = [
                     {
                         id: 1,
                         name: 'RLCS EU',
+                        channels: [
+                            {
+                                id: 1,
+                                name: 'RLCS',
+                                url: 'https://www.twitch.tv/rocketleague',
+                            },
+                        ],
                     },
                 ],
             },
@@ -63,10 +96,29 @@ export const team = [
                     {
                         id: 1,
                         name: 'LEC',
+                        channels: [
+                            {
+                                id: 1,
+                                name: 'LEC',
+                                url: 'https://www.twitch.tv/lec',
+                            },
+                            {
+                                id: 2,
+                                name: 'LEC 2',
+                                url: 'https://www.twitch.tv/lec2',
+                            },
+                        ],
                     },
                     {
                         id: 2,
                         name: 'LFL',
+                        channels: [
+                            {
+                                id: 1,
+                                name: 'LFL',
+                                url: 'https://www.twitch.tv/lolesportslfl',
+                            },
+                        ],
                     },
                 ],
             },
@@ -78,6 +130,13 @@ export const team = [
                     {
                         id: 1,
                         name: 'VCT',
+                        channels: [
+                            {
+                                id: 1,
+                                name: 'VCT EMEA',
+                                url: 'https://www.twitch.tv/valorantchampions',
+                            },
+                        ],
                     },
                 ],
             },
@@ -89,6 +148,13 @@ export const team = [
                     {
                         id: 1,
                         name: 'RLCS EU',
+                        channels: [
+                            {
+                                id: 1,
+                                name: 'RLCS',
+                                url: 'https://www.twitch.tv/rocketleague',
+                            },
+                        ],
                     },
                 ],
             },
@@ -107,6 +173,13 @@ export const team = [
                     {
                         id: 1,
                         name: 'LFL',
+                        channels: [
+                            {
+                                id: 1,
+                                name: 'LFL',
+                                url: 'https://www.twitch.tv/lolesportslfl',
+                            },
+                        ],
                     },
                 ],
             },
@@ -118,6 +191,13 @@ export const team = [
                     {
                         id: 1,
                         name: 'VCT',
+                        channels: [
+                            {
+                                id: 1,
+                                name: 'VCT EMEA',
+                                url: 'https://www.twitch.tv/valorantchampions',
+                            },
+                        ],
                     },
                 ],
             },
@@ -129,6 +209,13 @@ export const team = [
                     {
                         id: 1,
                         name: 'RLCS EU',
+                        channels: [
+                            {
+                                id: 1,
+                                name: 'RLCS',
+                                url: 'https://www.twitch.tv/rocketleague',
+                            },
+                        ],
                     },
                 ],
             },

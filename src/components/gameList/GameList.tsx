@@ -1,6 +1,6 @@
 import './GameList.scss'
 
-interface GameListProps {
+export interface GameListProps {
   games: {
     id: number
     name: string
