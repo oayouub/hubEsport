@@ -8,12 +8,12 @@ export const team = [
         logo: iconKarmine,
     },
     {
-        id: 1,
+        id: 2,
         name: 'Vitality',
         logo: iconVitality,
     },
     {
-        id: 1,
+        id: 3,
         name: 'Gentles Mates',
         logo: iconGentlesMates,
     },

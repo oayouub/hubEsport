@@ -1,11 +1,16 @@
 import './Navbar.scss'
 import NavbarItems from './navbarItems/NavbarItems'
 
-const Navbar = () => {
+interface NavbarProps {
+  onSelectItem: (item: any) => void
+}
+
+const Navbar: React.FC<NavbarProps> = ({ onSelectItem }) => {
   return (
     <div className="navbar">
-        <NavbarItems />
+      <NavbarItems onSelectItem={onSelectItem} /> 
     </div>
   )
 }
+
 export default Navbar
