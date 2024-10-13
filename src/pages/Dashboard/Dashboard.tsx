@@ -4,7 +4,6 @@ import Content from '../Content/Content'
 import './Dashboard.scss'
 
 const Dashboard = () => {
-  // État pour gérer l'élément sélectionné
   const [selectedItem, setSelectedItem] = useState(null)
 
   return (
